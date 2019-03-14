@@ -6,3 +6,7 @@
 ## 未定
 
 ここに何を掲載していくかは未定です。
+
+## ソーシャル
+
+* [terraform-jp](https://twitter.com/terraform_jp) お問い合わせは上記 slack か Twitter アカウントまでお願いします。
