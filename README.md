@@ -10,3 +10,8 @@
 ## ソーシャル
 
 * [terraform-jp](https://twitter.com/terraform_jp) お問い合わせは上記 slack か Twitter アカウントまでお願いします。
+
+## Qiita tags: terraform order by new
+
+<a href="https://qiita.com/" data-qiita-widget data-tag="terraform" data-items="10" data-hide-header data-hide-footer>Qiita投稿</a>
+<script src="https://qiita-widget.suin.io/widget.js" defer></script>
