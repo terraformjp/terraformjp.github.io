@@ -15,3 +15,11 @@
 
 <a href="https://qiita.com/" data-qiita-widget data-tag="terraform" data-items="10" data-hide-header data-hide-footer>Qiita投稿</a>
 <script src="https://qiita-widget.suin.io/widget.js" defer></script>
+
+## Slack Export Logs
+
+* [2019/01](/slack/20181231-20190131.zip)
+* [2019/02](/slack/20190131-20190228.zip)
+* [2019/03](/slack/20190228-20190331.zip)
+* [2019/04](/slack/20190331-20190430.zip)
+* [2019/05](/slack/20190430-20190531.zip)
