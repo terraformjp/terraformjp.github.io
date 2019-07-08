@@ -3,9 +3,13 @@
 [terraform-jp.slack.com](https://join.slack.com/t/terraform-jp/shared_invite/enQtNTM2NTYzNDY0OTkyLTUwMjVlMzZjODM4ODdkNTk3NTIyMDI5MDQ0ODg0YTZlNmU0YjA2MGJmNmFjNzNlYjI0Mjk3NmEzODhjYjBkYWU) は日本語で気軽に
 [terraform](https://www.terraform.io/) について話せる slack コミュニティです。気軽に参加してください。
 
-## 未定
+## イベント
 
-ここに何を掲載していくかは未定です。
+[connpass](https://terraform-jp.connpass.com)でイベントを開催しています。
+
+隔月で以下を毎月1日前後に行っています。
+- Terraform Source Code Reading: Terraform本体およびProviderのSource Codeを読んでContributorを増やす取り組み
+- Terraform meetup Tokyo: LTおよびDiscussionを行い、参加者同士でTerraformの知見を深める会
 
 ## ソーシャル
 
