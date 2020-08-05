@@ -44,29 +44,29 @@
 
 <tr>
 <th>2019</th>
-<td>[01](/slack/20181231-20190131.zip)</td>
-<td>[02](/slack/20190131-20190228.zip)</td>
-<td>[03](/slack/20190228-20190331.zip)</td>
-<td>[04](/slack/20190331-20190430.zip)</td>
-<td>[05](/slack/20190430-20190531.zip)</td>
-<td>[06](/slack/20190531-20190630.zip)</td>
-<td>[07](/slack/20190630-20190731.zip)</td>
-<td>[08](/slack/20190731-20190831.zip)</td>
-<td>[09](/slack/20190831-20190930.zip)</td>
-<td>[10](/slack/20190930-20191031.zip)</td>
-<td>[11](/slack/20191031-20191130.zip)</td>
-<td>[12](/slack/20191130-20191231.zip)</td>
+<td><a href="/slack/20181231-20190131.zip">01</a></td>
+<td><a href="/slack/20190131-20190228.zip">02</a></td>
+<td><a href="/slack/20190228-20190331.zip">03</a></td>
+<td><a href="/slack/20190331-20190430.zip">04</a></td>
+<td><a href="/slack/20190430-20190531.zip">05</a></td>
+<td><a href="/slack/20190531-20190630.zip">06</a></td>
+<td><a href="/slack/20190630-20190731.zip">07</a></td>
+<td><a href="/slack/20190731-20190831.zip">08</a></td>
+<td><a href="/slack/20190831-20190930.zip">09</a></td>
+<td><a href="/slack/20190930-20191031.zip">10</a></td>
+<td><a href="/slack/20191031-20191130.zip">11</a></td>
+<td><a href="/slack/20191130-20191231.zip">12</a></td>
 </tr>
 
 <tr>
 <th>2020</th>
-<td>[01](/slack/20191231-20200131.zip)</td>
-<td>[02](/slack/20200131-20200229.zip)</td>
-<td>[03](/slack/20200229-20200331.zip)</td>
-<td>[04](/slack/20200331-20200430.zip)</td>
-<td>[05](/slack/20200430-20200531.zip)</td>
-<td>[06](/slack/20200531-20200630.zip)</td>
-<td>[07](/slack/20200630-20200731.zip)</td>
+<td><a href="/slack/20191231-20200131.zip">01</a></td>
+<td><a href="/slack/20200131-20200229.zip">02</a></td>
+<td><a href="/slack/20200229-20200331.zip">03</a></td>
+<td><a href="/slack/20200331-20200430.zip">04</a></td>
+<td><a href="/slack/20200430-20200531.zip">05</a></td>
+<td><a href="/slack/20200531-20200630.zip">06</a></td>
+<td><a href="/slack/20200630-20200731.zip">07</a></td>
 <td>08</td>
 <td>09</td>
 <td>10</td>
