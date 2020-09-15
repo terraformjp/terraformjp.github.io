@@ -7,9 +7,11 @@
 
 [connpass](https://terraform-jp.connpass.com)でイベントを開催しています。
 
-隔月で以下を毎月1日前後に行っています。
+隔月で以下を毎月1日前後に行っています。（コロナ禍で2020年9月現在見送り中です）
 - Terraform Source Code Reading: Terraform本体およびProviderのSource Codeを読んでContributorを増やす取り組み
 - Terraform meetup Tokyo: LTおよびDiscussionを行い、参加者同士でTerraformの知見を深める会
+
+[HashiCorp本家のイベント情報](https://www.hashicorp.com/events)では、オンラインでのWebinersなどの案内があります。
 
 ## ソーシャル
 
