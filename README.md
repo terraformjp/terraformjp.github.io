@@ -69,7 +69,23 @@
 <td><a href="/slack/20200430-20200531.zip">05</a></td>
 <td><a href="/slack/20200531-20200630.zip">06</a></td>
 <td><a href="/slack/20200630-20200731.zip">07</a></td>
-<td>08</td>
+<td><a href="/slack/20200801-20200831.zip">08</a></td>
+<td><a href="/slack/20200901-20200930.zip">09</a></td>
+<td><a href="/slack/20201001-20201031.zip">10</a></td>
+<td><a href="/slack/20201101-20201130.zip">11</a></td>
+<td><a href="/slack/20201201-20201231.zip">12</a></td>
+</tr>
+
+<tr>
+<th>2021</th>
+<td><a href="/slack/20210101-20210131.zip">01</a></td>
+<td><a href="/slack/20210201-20210228.zip">02</a></td>
+<td><a href="/slack/20210301-20210331.zip">03</a></td>
+<td><a href="/slack/20210401-20210430.zip">04</a></td>
+<td><a href="/slack/20210501-20210531.zip">05</a></td>
+<td><a href="/slack/20210601-20210630.zip">06</a></td>
+<td><a href="/slack/20210701-20210731.zip">07</a></td>
+<td><a href="/slack/20210801-20210831.zip">08</a></td>
 <td>09</td>
 <td>10</td>
 <td>11</td>
