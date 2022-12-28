@@ -92,5 +92,21 @@
 <td><a href="/slack/202112.zip">12</a></td>
 </tr>
 
+<tr>
+<th>2022</th>
+<td><a href="/slack/202201.zip">01</a></td>
+<td>02</td>
+<td>03</td>
+<td>04</td>
+<td>05</td>
+<td>06</td>
+<td>07</td>
+<td>08</td>
+<td>09</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+</tr>
+
 </tbody>
 </table>
