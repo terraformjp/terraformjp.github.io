@@ -95,7 +95,7 @@
 <tr>
 <th>2022</th>
 <td><a href="/slack/202201.zip">01</a></td>
-<td>02</td>
+<td><a href="/slack/202202.zip">02</a></td>
 <td>03</td>
 <td>04</td>
 <td>05</td>
