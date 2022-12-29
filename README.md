@@ -101,7 +101,7 @@
 <td><a href="/slack/202205.zip">05</a></td>
 <td><a href="/slack/202206.zip">06</a></td>
 <td><a href="/slack/202207.zip">07</a></td>
-<td>08</td>
+<td><a href="/slack/202208.zip">08</a></td>
 <td>09</td>
 <td>10</td>
 <td>11</td>
